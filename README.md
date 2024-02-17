@@ -2,7 +2,8 @@
 
   ![MasterHead](https://64.media.tumblr.com/067e43e3cabd5c2415786b7f99848366/4481a8f4ec715361-db/s640x960/19cd3b180f7868bd3840fbfd6a9f4266789695a3.gif)
 
-  <h1>Hey Im / Hola: soy Bran</h1>
+  <h1>Hey Im Bran</h1>
+  
   <h3>I LOVE programming and doing weird things on my free time</h3>
 
   <ul style="list-style-type: none; padding-left: 0;">
