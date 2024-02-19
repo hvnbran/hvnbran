@@ -8,7 +8,7 @@
 
   <ul style="list-style-type: none; padding-left: 0;">
     <li>🗿 I’m currently learning <strong>abt everything that helps me to become better</strong></li>
-    <li>🧠 How to reach me <strong><a href="mailto:brandonmunetonavendano@gmail.com">brandonmunetonavendo@gmail.com</a></strong></li>
+    <li>🧠 How to reach me <strong><a href="mailto:brandonmunetonavendano@gmail.com">brandonmunetonavendano@gmail.com</a></strong></li>
     <li>⚡ Fun fact <strong>Im a skater and pretty decent gamer</strong></li>
   </ul>
 
